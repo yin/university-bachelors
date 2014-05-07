@@ -1,0 +1,3 @@
+[submodule "wikidumps/info.bliki.wiki"]
+	path = wikidumps/info.bliki.wiki
+	url = git@bitbucket.org:axelclk/info.bliki.wiki.git
